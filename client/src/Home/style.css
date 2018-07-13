@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+}
+
+
+body {
+	  background-image: url("./connectedhands.jpeg");
+	   height: 100%; 
+	   width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: red;
+}
+
+h3 {
+	text-align: center;
+	background-color: black;
+	color: white;
+}
