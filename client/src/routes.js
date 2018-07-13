@@ -24,7 +24,7 @@ export const makeMainRoutes = () => {
     <Router history={history}>
         <div>
           <Route path="/" render={(props) => <App auth={auth} {...props} />} />
-          <Route path="/Home" render={(props) => <Home auth={auth} {...props} />} />
+          <Route path="/home" render={(props) => <Home auth={auth} {...props} />} />
           <Route path="/Event" render={(props) => <Event auth={auth} {...props} />} />
            <Route path="/EventInfo" component={EventInfo} />
            <Route path="/Attending" component={Details} />
