@@ -2,7 +2,7 @@
 module.exports = {
   domain: "lucasm.auth0.com",
   clientId: "IsLaAJwqv6pvy4einN5KtKkL8nMGjCbS",
-  callBackURL: "https://whomagics.herokuapp.com/"
+  callBackURL: "https://whomagics.herokuapp.com/Home"
 }
 
 
